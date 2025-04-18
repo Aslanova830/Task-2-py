@@ -14,6 +14,7 @@ sum_numbers(a,b)
 #3
 def  calculate_average(s):
     n=int(input("ne qeder eded olacaq"))
+    s=0
     for i in range(n): 
        num= int(input("eded daxil et"))
        s=s+num
